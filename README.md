@@ -121,6 +121,11 @@ Buka file notebook:
 - Melakukan eksplorasi Random Forest.
 - Melakukan tuning model untuk mendapatkan performa terbaik.
 
+## Review
+berikut merupakan penilaian dari Dicoding
+![Model Machine Learning Review](https://github.com/ariniamsr/Membangun-Proyek-Machine-Learning/blob/7202cab26928267d0e3285aeeb2475d49e50ba1d/Penilaian%20dari%20Dicoding.jpeg)
+
+
 ---
 
 ## 👩‍💻 Author
