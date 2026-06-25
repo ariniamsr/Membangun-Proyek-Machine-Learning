@@ -28,18 +28,18 @@ Membangun-Proyek-Machine-Learning
 │   ├── data_clustering.csv
 │   └── data_clustering_inverse.csv
 │
-├── Notebook
-│   ├── [Clustering]_Submission_Akhir_BMLP_Arini_Arumsari.ipynb
-│   └── [Klasifikasi]_Submission_Akhir_BMLP_Arini_Arumsari.ipynb
+├── Model Classification
+│   ├── decision_tree_model.h5
+│   ├── explore_RandomForest_classification.h5
+│   └── tuning_classification.h5
 │
 ├── Model Clustering
 │   ├── model_clustering.h5
 │   └── PCA_model_clustering.h5
 │
-├── Model Classification
-│   ├── decision_tree_model.h5
-│   ├── explore_RandomForest_classification.h5
-│   └── tuning_classification.h5
+├── Notebook
+│   ├── [Clustering]_Submission_Akhir_BMLP_Arini_Arumsari.ipynb
+│   └── [Klasifikasi]_Submission_Akhir_BMLP_Arini_Arumsari.ipynb
 │
 └── README.md
 ```
