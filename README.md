@@ -41,6 +41,8 @@ Membangun-Proyek-Machine-Learning
 │   ├── [Clustering]_Submission_Akhir_BMLP_Arini_Arumsari.ipynb
 │   └── [Klasifikasi]_Submission_Akhir_BMLP_Arini_Arumsari.ipynb
 │
+├──Penilaian dari Dicoding.jpeg
+├──requirements.txt
 └── README.md
 ```
 
